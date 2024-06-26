@@ -31,3 +31,6 @@ This project was built using the following tools:
    The template is fully responsive, ensuring a seamless user experience across all devices, and it's compatible with all major web browsers.
 
 Elevate your online presence with the Daniels-Personal Website Template. Showcase your portfolio with style and professionalism, and leave a memorable impression on your visitors.
+
+## for live demo please click on the link :
+https://abdulrahman-mashhout.github.io/Daniels/
